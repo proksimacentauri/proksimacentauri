@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there ✨  
+ 
+ My name is Donna and I am a fullstack .NET developer that sometimes dabbles in nodeJS. :)
 
 <!--
 **proksimacentauri/proksimacentauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
